@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Ziad Fouda 👋
 
-<!--
-**ZiadFouda/ZiadFouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### 🎓 Featured Project: [EDUVERSE](https://ziadfouda.softr.app/)
+> **Interactive educational portal and learning platform.**
+- 🌐 **Live Website:** [ziadfouda.softr.app](https://ziadfouda.softr.app/)
+- 🚀 **Platform:** Web Application
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Other Projects & Repositories
+- 🔒 **[LINKSAFE](https://github.com/ZiadFouda/LINKSAFE)**
+- 🎬 **[CLIPFORGE](https://github.com/ZiadFouda/CLIPFORGE)**
+- 💼 **[Portfolio](https://ziad-fouda-portfolio.vercel.app)** ([Code](https://github.com/ZiadFouda/Ziad-Fouda-portfolio))
+
+---
+
+📫 **Get in Touch:**
+- Website: [ziadfouda.softr.app](https://ziadfouda.softr.app/)
+- Portfolio: [ziad-fouda-portfolio.vercel.app](https://ziad-fouda-portfolio.vercel.app)
